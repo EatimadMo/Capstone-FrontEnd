@@ -1,0 +1,4 @@
+The idea of ​​the project is to create a platform that brings together volunteers and the disabled, through which they can communicate and provide various services such as education, escort, transportation, etc.
+ Initial contact is by phone.
+ The website asks the user to log in, either as a volunteer or a disabled person, and asks them to enter more additional information required. and upon completion of registration,
+On the home page, when you press the buttons, a list of all the information and services required or granted will be displayed, along with job opportunities.
